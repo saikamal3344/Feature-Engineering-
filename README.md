@@ -9,4 +9,4 @@
          
 <hr>
 
-<img src="datacleaning.jpg" width="500" height="500">
+<img src="datacleaning.jpg" width="700" height="500">
